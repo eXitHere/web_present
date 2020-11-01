@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/web_present/static/css/main.c67c5b8f.chunk.css",
-    "main.js": "/web_present/static/js/main.63833f2b.chunk.js",
-    "main.js.map": "/web_present/static/js/main.63833f2b.chunk.js.map",
+    "main.js": "/web_present/static/js/main.f2aa0e06.chunk.js",
+    "main.js.map": "/web_present/static/js/main.f2aa0e06.chunk.js.map",
     "runtime-main.js": "/web_present/static/js/runtime-main.11e9a622.js",
     "runtime-main.js.map": "/web_present/static/js/runtime-main.11e9a622.js.map",
     "static/js/2.85a8b5d7.chunk.js": "/web_present/static/js/2.85a8b5d7.chunk.js",
@@ -13,8 +13,6 @@
     "static/css/main.c67c5b8f.chunk.css.map": "/web_present/static/css/main.c67c5b8f.chunk.css.map",
     "static/js/2.85a8b5d7.chunk.js.LICENSE.txt": "/web_present/static/js/2.85a8b5d7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/web_present/static/media/thai int-01.538f748e.png",
-    "static/media/Picture1.9c925f5d.png": "/web_present/static/media/Picture1.9c925f5d.png",
-    "static/media/Picture2.c0cc2f7e.png": "/web_present/static/media/Picture2.c0cc2f7e.png",
     "static/media/T-03.40526b96.png": "/web_present/static/media/T-03.40526b96.png",
     "static/media/T-04.8c2c8cf8.png": "/web_present/static/media/T-04.8c2c8cf8.png",
     "static/media/T-05.75323146.png": "/web_present/static/media/T-05.75323146.png",
@@ -30,6 +28,8 @@
     "static/media/T3-03.14e984b3.png": "/web_present/static/media/T3-03.14e984b3.png",
     "static/media/T3-04.753c5971.png": "/web_present/static/media/T3-04.753c5971.png",
     "static/media/T6-01.f317b3d4.png": "/web_present/static/media/T6-01.f317b3d4.png",
+    "static/media/T7_2_0.6298986c.png": "/web_present/static/media/T7_2_0.6298986c.png",
+    "static/media/T7_2_1.ac5f44df.png": "/web_present/static/media/T7_2_1.ac5f44df.png",
     "static/media/thai_int-02.ce227a90.png": "/web_present/static/media/thai_int-02.ce227a90.png",
     "static/media/thai_int-06.853d26c2.png": "/web_present/static/media/thai_int-06.853d26c2.png",
     "static/media/thai_int-07.dd3892af.png": "/web_present/static/media/thai_int-07.dd3892af.png"
@@ -38,6 +38,6 @@
     "static/js/runtime-main.11e9a622.js",
     "static/js/2.85a8b5d7.chunk.js",
     "static/css/main.c67c5b8f.chunk.css",
-    "static/js/main.63833f2b.chunk.js"
+    "static/js/main.f2aa0e06.chunk.js"
   ]
 }
